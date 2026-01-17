@@ -1,9 +1,7 @@
 # Hangman Game (Python)
 
 A simple **Hangman game** built in Python!
-The player guesses letters of a random animal until they figure out the word.  
-
----
+The player guesses letters of a random animal until they figure out the word.
 
 ## Features
 
